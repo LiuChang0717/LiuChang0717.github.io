@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Chang Liu"
+name                     : "Chang Liu"
 description              : &description "personal description"
 url                      : "https://liuchang0717.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
