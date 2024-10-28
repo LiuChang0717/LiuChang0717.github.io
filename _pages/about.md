@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Yanjun Wang is a full professor at College of Civil Aviation, Nanjing University of Aeronautics and Astronautics, China. He received his PhD from TELECOM ParisTech, Paris, France in 2012. His research interests include human factors in air traffic management, modelling and management of complex systems,large-scale traffic modelling and optimization, data analytics in aviation, etc. He has published 56 high-level academic papers,including more than 20 papers published in TR A/C/E,Engineering. The research results have been widely used in civil aviation fields. He has served as a member of TRB AV060, ICRAT International Conference.
 
 A data-driven personal website
 ======
