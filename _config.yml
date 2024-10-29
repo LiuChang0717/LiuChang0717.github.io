@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Chang Liu"
 title_separator          : "-"
 name                     : "Chang Liu"
-description              : &description "personal description"
+description              : &description "Alumnus of Nanjing University of Aeronautics and Astronautics (NUAA)"
 url                      : "https://liuchang0717.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
