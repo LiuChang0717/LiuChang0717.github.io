@@ -18,13 +18,33 @@ Chang Liu is going to be a PhD student in the University of Tokyo in October 202
     <h2>Education</h2>
     <ul>
         <li>
-            <strong>MSE. In Transportation Planning and Management, April 2024<br>
+            <strong>MSE. In Transportation Planning and Management, April 2024<br> 
+            <span style="float: right;">2017.09 - 2021.06</span>
             Nanjing University of Aeronautics and Astronautics<br>
             Supervisor: <a href="https://amatc2.github.io/">Prof. Yanjun Wang</a>
         </li>
         <li style="margin-top: 12px;">
             <strong>BSE. In Air Traffic Management and Dispatch,June 2021<br>
+            <span style="float: right;">2017.09 - 2021.06</span>
             Nanjing University of Aeronautics and Astronautics<br>
+        </li>
+    </ul>
+</div>
+
+<div class="rSection">
+    <h2>Education</h2>
+    <ul>
+        <li>
+            <strong>Master of Transportation Engineering</strong><br>
+            <span style="float: right;">2021.09 - 2024.04</span>
+            Nanjing University of Aeronautics and Astronautics<br>
+            GPA: 3.6/5.0 | Supervisor: <a href="https://amatc2.github.io/">Prof. Yanjun Wang</a>
+        </li>
+        <li style="margin-top: 12px;">
+            <strong>Bachelor of Air Transportation</strong> (Air Traffic Management and Dispatch)<br>
+            <span style="float: right;">2017.09 - 2021.06</span>
+            Nanjing University of Aeronautics and Astronautics<br>
+            GPA: 3.5/5.0
         </li>
     </ul>
 </div>
