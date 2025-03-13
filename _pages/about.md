@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Chang Liu
-Chang Liu is a recent graduate with a Master’s degree in Transportation Engineering from Nanjing University of Aeronautics and Astronautics (NUAA), where he also earned his Bachelor’s degree in 2021. His research interests lie in optimizing air traffic management strategies, particularly in schedule intervention, slot allocation, and ground delay programs within multiple airport systems. Chang has developed advanced optimization frameworks and authored several high-impact academic papers and patents in the field. He is actively seeking opportunities to contribute to advancements in air traffic management and operations research while engaging in academic collaborations and international workshops.
+Chang Liu is a PhD student in the University of Tokyo.
 
 
 
