@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 
-Chang Liu is a PhD student in the University of Tokyo.
+
+Chang Liu is going to be a PhD student in the University of Tokyo in October 2025, he is now a research assistant in Nanjing University of Aeronautics and Astronautics.
 
 
 
