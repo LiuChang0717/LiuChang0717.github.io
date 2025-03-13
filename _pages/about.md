@@ -15,16 +15,17 @@ Chang Liu is a PhD student in the University of Tokyo.
           
 <div class="rSection">
     <h2>Education</h2>
-    <p>
-        <strong>Nanjing University of Aeronautics and Astronautics:</strong><br>
-        2021-2024<br>
-        Master of Transportation Engineering
-    </p>
-    <p>
-        <strong>Nanjing University of Aeronautics and Astronautics:</strong><br>
-        2017-2021<br>
-        Bachelor of Air Transportation (Air Traffic Management and Dispatch)
-    </p>
+    <ul>
+        <li>
+            <strong>MSE. In Transportation Planning and Management, April 2024<br>
+            Nanjing University of Aeronautics and Astronautics<br>
+            Supervisor: <a href="https://amatc2.github.io/">Prof. Yanjun Wang</a>
+        </li>
+        <li style="margin-top: 12px;">
+            <strong>BSE. In Air Traffic Management and Dispatch,June 2021<br>
+            Nanjing University of Aeronautics and Astronautics<br>
+        </li>
+    </ul>
 </div>
           
 <div class="rSection">
