@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Chang Liu
+
 Chang Liu is a PhD student in the University of Tokyo.
 
 
@@ -17,10 +17,12 @@ Chang Liu is a PhD student in the University of Tokyo.
     <h2>Education</h2>
     <p>
         <strong>Nanjing University of Aeronautics and Astronautics:</strong><br>
+        2021-2024<br>
         Master of Transportation Engineering
     </p>
     <p>
         <strong>Nanjing University of Aeronautics and Astronautics:</strong><br>
+        2017-2021<br>
         Bachelor of Air Transportation (Air Traffic Management and Dispatch)
     </p>
 </div>
