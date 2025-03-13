@@ -19,9 +19,9 @@ Chang Liu is going to be a PhD student in the University of Tokyo in October 202
     <ul>
         <li>
             <strong>Ph.D Candidate in Aeronautics and Astronautics</strong><br>
-            <span style="float: right;">2025.09 - Present</span>
+            <span style="float: right;">2025.10 - Present</span>
             University of Tokyo<br>
-            Supervisor: Prof. Eri Itoh
+            Supervisor: <a href="https://www.u-tokyo.ac.jp/focus/en/people/k0001_02908.html">Prof. Eri Itoh</a>
         </li>
         <li>
             <strong>MSE. in Transportation Planning and Management</strong><br>
