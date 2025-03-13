@@ -68,7 +68,7 @@ Chang Liu is a recent graduate with a Master’s degree in Transportation Engine
     <h2>Working Papers</h2>
     <ul>
         <li>
-            <strong>Liu, C.</strong>, Wang, Y., and Wang, H. Distributionally robust optimization approaches to schedule intervention in a multiple-airport system. Transportation Research Part E: Logistics and Transportation Review (under review)
+            <strong>Liu, C.</strong>, Wang, Y., Wang, H. and Duong, V., Distributionally robust optimization approaches to schedule intervention in a multiple-airport system. Transportation Research Part E: Logistics and Transportation Review (under review)
         </li>
     </ul>
 </div>
