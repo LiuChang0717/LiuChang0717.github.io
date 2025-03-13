@@ -11,39 +11,65 @@ Chang Liu
 Chang Liu is a recent graduate with a Master’s degree in Transportation Engineering from Nanjing University of Aeronautics and Astronautics (NUAA), where he also earned his Bachelor’s degree in 2021. His research interests lie in optimizing air traffic management strategies, particularly in schedule intervention, slot allocation, and ground delay programs within multiple airport systems. Chang has developed advanced optimization frameworks and authored several high-impact academic papers and patents in the field. He is actively seeking opportunities to contribute to advancements in air traffic management and operations research while engaging in academic collaborations and international workshops.
 
 
-Education
-======
-University of Tokyo
-
-PhD candidate
-
-Supervisor: Prof. Eri Itoh
-
-------
-
-Nanjing University of Aeronautics and Astronautics
-
-Master & Bachelor of Engineering
-
-Supervisor: Prof. Yanjun WANG
-
-Research Interests
-======
-Domain:
-1. Air traffic management
-2. Scheduling interventions
-3. Ground delay programming
-4. Air space capacity allocation
-
-Methodologies:
-1. Chance-constrained programming
-2. Stochastic programming
-3. Distributionally robust optimization
+<div class="rSection">
+    <h2>Education</h2>
+    <p>
+        <strong>Nanjing University of Aeronautics and Astronautics</strong> 
+        <span style="float: right;"><br>
+        Master of Transportation Engineering 
+        <span style="float: right;"><br>
+        Supervisor: <a href="https://amatc2.github.io/">Professor Yanjun Wang</a>
+    </p>
+    <p>
+        <strong>Nanjing University of Aeronautics and Astronautics</strong> 
+        <span style="float: right;"><br>
+        Bachelor of Air Transportation (Air Traffic Management and Dispatch) 
+    </p>
+</div>
+<div class="rSection">
+    <h2>Research Interests</h2>
+    <p>
+        <strong>Domain:</strong><br>
+        Air Traffic Management; Slot Allocation; Airspace Capacity Allocation; Urban Air Mobility
+    </p>
+    <p>
+        <strong>Methodologies:</strong><br>
+        Stochastic Programming; Chance-constrained Programming; Distributionally Robust Optimization; Machine Learning
+    </p>
+</div>
 
 
-Skill Overview
-======
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<div class="rSection">
+    <h2>Publications</h2>
+    <ul>
+        <li>
+            Wang, Y., <strong>Liu, C.</strong>, Wang, H., and Duong, V., 2023. 
+            <a href="https://doi.org/10.1016/j.trc.2023.104185">Slot allocation for a multiple-airport system considering airspace capacity and flying time uncertainty.</a> 
+            <strong>Transportation Research Part C: Emerging Technologies</strong>, 153, 104185. (JCR:Q1, SJR: Q1)
+        </li>
+        <li>
+            <strong>Liu, C.</strong>, Liao, C., Hang, X., Wang, Y., and Delahaye, D., 2024. 
+            <a href="https://doi.org/10.2322/tjsass.67.127">Slot allocation in a multi-airport system under flying time uncertainty.</a> 
+            <strong>Transactions of the Japan Society for Aeronautical and Space Sciences</strong>, 67(3), 127-135. (JCR: Q4, SJR: Q3)
+        </li>
+        <li>
+            <strong>Liu, C.</strong>, Wang, Y., Wu, S., and Delahaye, D., 2022. 
+            <a href="https://enac.hal.science/hal-03852039/">Slot allocation in a multi-airport system under flying time uncertainty.</a> 
+            <strong>International Workshop on ATM/CNS (IWAC) 2022</strong>, 20.
+        </li>
+        <li>
+            Nie, J., <strong>Liu, C.</strong>, and Wang, Y., 2023. 
+            <a href="https://doi.org/10.19961/j.cnki.1672-4747.2022.11.006">  Integrated method for strategically allocating capacity resources in a multiple airport system (in Chinese).</a> 
+            <strong>Journal of Transportation Engineering and Information</strong>, 21(4), 115-128.
+        </li>
+    </ul>
+</div>
 
-
-
+<div class="rSection">
+    <h2>Working Papers</h2>
+    <ul>
+        <li>
+            <strong>Liu, C.</strong>, Wang, Y., and Wang, H. Distributionally robust optimization approaches to schedule intervention in a multiple-airport system. Transportation Research Part E: Logistics and Transportation Review (under review)
+        </li>
+    </ul>
+</div>
