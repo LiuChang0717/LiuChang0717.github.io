@@ -131,3 +131,18 @@ Chang Liu is going to be a PhD student in the University of Tokyo in October 202
         </li>
     </ul>
 </div>
+
+
+<div class="rSection">
+    <h2>Contact</h2>
+    <ul>
+        <li>
+            <strong>Email</strong>: 
+            changliu@nuaa.edu.cn
+        </li>
+        <li>
+            <strong>Mobile</strong>: 
+            +86 18551765215
+        </li>
+    </ul>
+</div>
