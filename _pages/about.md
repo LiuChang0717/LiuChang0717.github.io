@@ -86,3 +86,48 @@ Chang Liu is going to be a PhD student in the University of Tokyo in October 202
         </li>
     </ul>
 </div>
+
+<!-- Conference Talks 部分 -->
+<div class="rSection">
+    <h2>Conference Talks</h2>
+    <ul>
+        <li>
+            <strong>2022 International Workshop on ATM/CNS</strong>, Tokyo, Japan
+            <span style="float: right;">Oct. 25–27, 2022</span><br>
+            Slot allocation in a multiple airport system, <em>Paper presentation (virtual)</em>
+        </li>
+        <li>
+            <strong>SESAR Innovation Days 2023</strong>, Sevilla, Spain
+            <span style="float: right;">Nov. 27–30, 2023</span><br>
+            Robust slot allocation, <em>Poster presentation (virtual)</em>
+        </li>
+        <li>
+            <strong>14th POMS-HK International Conference</strong>, Hong Kong SAR, China
+            <span style="float: right;">Jan. 5–6, 2024</span><br>
+            UAM Airspace Design and Management: Challenges and Opportunities, <em>Oral Presentation</em>
+        </li>
+    </ul>
+</div>
+
+<!-- Awards and Scholarships 部分 -->
+<div class="rSection">
+    <h2>Awards and Scholarships</h2>
+    <ul>
+        <li>
+            <strong>National Scholarship for Graduate Students</strong>, 
+            Ministry of Education of the People's Republic of China, 2023
+        </li>
+        <li>
+            <strong>First Prize in "MathorCup" The 12th University Mathematical Challenge Contest in Modeling</strong>, 
+            China Society for Optimization, Overall Planning, and Economic Mathematics Research, 2022
+        </li>
+        <li>
+            <strong>Second Prize in "MathorCup" The 12th University Mathematical Challenge Contest in Modeling-Big Data Contest</strong>, 
+            China Society for Optimization, Overall Planning, and Economic Mathematics Research, 2022
+        </li>
+        <li>
+            <strong>Second Prize in "Huawei Cup" The 18th China Post-Graduate Mathematical Contest in Modeling</strong>, 
+            Chinese Society of Academic Degrees and Graduate Education, 2021
+        </li>
+    </ul>
+</div>
