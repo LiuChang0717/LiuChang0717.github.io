@@ -103,7 +103,7 @@ Chang Liu is going to be a PhD student in the University of Tokyo in October 202
         </li>
         <li>
             <strong>14th POMS-HK International Conference</strong>, Hong Kong SAR, China
-            <span style="float: right;">Jan. 5–6, 2024</span><br>
+            <span style="float: right;">Jan. 05–06, 2024</span><br>
             UAM Airspace Design and Management: Challenges and Opportunities, <em>Oral Presentation</em>
         </li>
     </ul>
