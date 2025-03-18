@@ -82,7 +82,7 @@ Chang Liu is going to be a PhD student in the University of Tokyo in October 202
     <h2>Working Papers</h2>
     <ul>
         <li>
-            <strong>Liu, C.</strong>, Wang, Y., Wang, H. and Duong, V., Distributionally robust optimization approaches to schedule intervention in a multiple-airport system. <strong><em>Transportation Research Part E: Logistics and Transportation Review </em></strong> (under review)
+            <strong>Liu, C.</strong>, Wang, Y., Wang, H. and Duong, V., Distributionally robust optimization approaches to schedule intervention in a multiple-airport system.
         </li>
     </ul>
 </div>
