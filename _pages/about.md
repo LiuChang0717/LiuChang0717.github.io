@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-Chang Liu is a prospective PhD student in Aeronautics and Astronautics at the University of Tokyo, where he will begin his studies in October 2025. He is currently a research assistant at Nanjing University of Aeronautics and Astronautics (NUAA), focusing on air traffic management and optimization. He obtained both his bachelor's and master's degrees from NUAA.
+Chang Liu is a PhD student in Aeronautics and Astronautics at the University of Tokyo. He obtained both his bachelor's and master's degrees from NUAA.
 
 
 
